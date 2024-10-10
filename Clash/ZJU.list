@@ -2,7 +2,10 @@
 # 校内直连，校外通过内网穿透或 RVPN 访问
 
 # 域名
+DOMAIN,speedtest.zju.edu.cn
+DOMAIN,speedtest.zju6.edu.cn
 DOMAIN-SUFFIX,zju.edu.cn
+DOMAIN-SUFFIX,zju6.edu.cn
 
 # CC98
 DOMAIN-KEYWORD,cc98
